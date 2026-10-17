@@ -80,17 +80,33 @@
 
 ## 📈 Contribution Activity
 
+
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrid25&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    src="https://raw.githubusercontent.com/afrid25/afrid25/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Animation"
+    width="100%"
+  />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afrid25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
+  <img
+    src="./assets/trophy.svg"
+    alt="GitHub Trophies"
+    width="100%"
+  />
 </p>
+
 
 ---
 
