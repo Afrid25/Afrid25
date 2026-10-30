@@ -45,6 +45,9 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -60,8 +63,6 @@
 | **Bookeeds** | Student productivity and book exchange platform | Coming soon |
 | **3D Portfolio** | Interactive 3D portfolio website with an AI chatbot | [Live Demo](https://afrid-3d-portfolio.vercel.app) |
 | **Portfolio** | Personal website with all my projects | [Visit](https://md-afrid-foisal-opu.xyz/) |
-
-> 📌 Tip: Pin your 6 best repositories on your GitHub profile to show them above this section.
 
 ---
 
@@ -80,33 +81,21 @@
 
 ## 📈 Contribution Activity
 
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/afrid25/afrid25/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Animation"
-    width="100%"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake.svg" />
+    <img alt="GitHub Contribution Animation" src="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
-
 
 ---
 
 ## 🏆 GitHub Trophies
 
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img
-    src="./assets/trophy.svg"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Afrid25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </p>
-
 
 ---
 
@@ -117,8 +106,9 @@
   <a href="https://www.facebook.com/a.f.opu1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/a.f.opu1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@lifecodewithafrid" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@afrid6996" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://codeforces.com/profile/afrid2005" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://discord.gg/afrid2500_36223" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.com/invite/afrid2500_36223" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <p align="center">
