@@ -52,22 +52,23 @@
 
 ---
 
+
+
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-| :-- | :-- | :-- |
-| **Bookeeds** | Student productivity and book exchange platform | Coming soon |
-| **3D Portfolio** | Interactive 3D portfolio website with an AI chatbot | [Live Demo](https://afrid-3d-portfolio.vercel.app) |
-| **Portfolio** | Personal website with all my projects | [Visit](https://md-afrid-foisal-opu.xyz/) |
+| Logo | Project | Description | Live Demo |
+| :---: | :--- | :--- | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="38" height="38" alt="Bookeeds" /> | **Bookeeds** 🌟 | My startup project — a student-friendly platform focused on learning, productivity, and academic collaboration. | [🌐 Visit](https://bookofdeeds.great-site.net/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2590/2590525.png" width="38" height="38" alt="Heaven Furniture" /> | **Heaven Furniture** 🏆 | A furniture website developed as a hackathon project, featuring a responsive shopping experience. | [🚀 Live Demo](https://heaven-furniture-hh2jv898q-afrids-projects-58b8b185.vercel.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" width="38" height="38" alt="OurShop" /> | **OurShop — E-commerce** 🛒 | An e-commerce platform featuring product listings, shopping cart, and checkout functionality. | [🛍️ Shop Now](https://ourshop-flax.vercel.app/) |
+| <img src="https://cdn-icons-png.flaticon.com/512/3081/3081840.png" width="38" height="38" alt="BazarDor" /> | **BazarDor — Market Price Tracker** 📊 | A Bangladesh-focused daily market price tracking platform featuring essential product prices, categories, price comparisons, and market trends. | [📈 Live Demo](https://bazar-dor-goem.vercel.app/) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="Portfolio" /> | **Personal Portfolio** 💻 | My personal developer portfolio showcasing projects, technical skills, and experience. | [🌐 Visit](https://md-afrid-foisal-opu.xyz/) |
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afrid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=afrid25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -85,15 +86,7 @@
   </picture>
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afrid25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
