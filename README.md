@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Afrid</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Frontend+%26+Product+Engineer;Full-Stack+Web+Developer+in+Progress;CSE+Student+%40+IIUC;Founder+of+Bookeeds" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="./assets/afrid-banner.svg" alt="Afrid - Full-Stack Web Developer in Progress, CSE Student at IIUC, Founder of Bookeeds" width="100%" />
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afrid25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
