@@ -1,91 +1,112 @@
 <div align="center">
-  <img src="./assets/afrid-banner.svg" alt="Afrid — CSE Student at IIUC, Full-Stack Developer in Progress and Founder of Bookeeds" width="100%" />  <h1>Hi, I'm Afrid 👋</h1>
-  <p><strong>CSE Student · Full-Stack Developer in Progress · Startup Founder</strong></p>
-  <p>Building practical products for students, businesses, and the web.</p>  <img src="https://komarev.com/ghpvc/?username=afrid25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/afrid25?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/afrid25?label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />  
+  <img src="./assets/afrid-banner.svg" alt="Afrid - Full-Stack Web Developer in Progress, CSE Student at IIUC, Founder of Bookeeds" width="100%" />
+</div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=afrid25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/afrid25?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/afrid25?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+</p>
 
-<a href="https://md-afrid-foisal-opu.xyz/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://afrid-3d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/3D_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
-<a href="mailto:25afridfoisal00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>👨‍💻 About Me
-- 🎓 Studying Computer Science & Engineering at International Islamic University Chittagong (IIUC).
-- 🚀 Founder of Bookeeds, a student-centered startup project.
-- 💻 Exploring full-stack development, modern web applications and AI-assisted development.
-- 🌱 Learning and building with React, Next.js, TypeScript and databases.
-- 🧩 Interested in software engineering, AI, product development and competitive programming.
-- 🎯 Focused on turning ideas into useful real-world products.
-- 📫 Contact: 25afridfoisal00@gmail.com
-🚀 Featured Projects
-📚 01 — Bookeeds | Student-Centered Startup
-<a href="https://bookofdeeds.great-site.net/"><img src="./assets/bookeeds.svg" alt="Bookeeds project logo" width="84" align="left" /></a>
+<p align="center">
+  <a href="https://md-afrid-foisal-opu.xyz/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://afrid-3d-portfolio.vercel.app"><img src="https://img.shields.io/badge/3D%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio" /></a>
+  <a href="mailto:25afridfoisal00@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-My flagship startup concept — built around students and their learning journey.
+---
 
-Bookeeds aims to bring together student productivity, learning resources and an education-focused community in one student-friendly platform. The wider vision includes academic collaboration, course discovery and AI-assisted study support.
+## 👨‍💻 About Me
 
+- 🎓 CSE student at **International Islamic University Chittagong (IIUC)**
+- 🚀 Founder of **Bookeeds**, a student productivity and book exchange platform
+- 🌱 Currently learning **⚛️ React.js · ▲ Next.js · 🍃 MongoDB**
+- 🛠️ Building full-stack and AI-assisted projects
+- 💬 Passionate about real-world projects and modern web technologies like React, Next.js and TypeScript
+- 📫 Reach me at **25afridfoisal00@gmail.com**
+- 🌐 All my projects: [md-afrid-foisal-opu.xyz](https://md-afrid-foisal-opu.xyz/)
 
-<br clear="left" />🪑 02 — Heaven Furniture | Hackathon Project
-<a href="https://heaven-furniture-hh2jv898q-afrids-projects-58b8b185.vercel.app/"><img src="./assets/heaven-furniture.svg" alt="Heaven Furniture project logo" width="84" align="left" /></a>
+---
 
-A furniture-focused web project created for a hackathon.
+## 🛠️ Languages & Tools
 
-A project showcasing web interface design and a furniture-oriented digital shopping experience.
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+</p>
 
+---
 
-<br clear="left" />🛒 03 — MATVerse (OurShop) | E-Commerce Marketplace
-<a href="https://ourshop-flax.vercel.app/"><img src="./assets/matverse.svg" alt="MATVerse ecommerce project logo" width="84" align="left" /></a>
+## 🚀 Featured Projects
 
-A multi-category online marketplace with a modern shopping experience.
+| Project | Description | Link |
+| :-- | :-- | :-- |
+| **Bookeeds** | Student productivity and book exchange platform | Coming soon |
+| **3D Portfolio** | Interactive 3D portfolio website with an AI chatbot | [Live Demo](https://afrid-3d-portfolio.vercel.app) |
+| **Portfolio** | Personal website with all my projects | [Visit](https://md-afrid-foisal-opu.xyz/) |
 
-Features product categories, search, product listings, a shopping cart and checkout navigation, with eco-friendly and lifestyle products among its collections.
+---
 
+## 📊 GitHub Stats
 
-<br clear="left" />🌐 04 — Interactive 3D Portfolio
-<a href="https://afrid-3d-portfolio.vercel.app/"><img src="./assets/portfolio-3d.svg" alt="3D portfolio project logo" width="84" align="left" /></a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=afrid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
-An interactive portfolio website featuring 3D elements and an AI chatbot.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afrid25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<br clear="left" />💼 05 — Personal Developer Portfolio
-<a href="https://md-afrid-foisal-opu.xyz/"><img src="./assets/portfolio.svg" alt="Developer portfolio project logo" width="84" align="left" /></a>
+---
 
-My personal website showcasing projects, skills and my software development journey.
+## 📈 Contribution Activity
 
-<br clear="left" />🛠️ Languages & Tools
-<div align="center">Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css" alt="C, C++, JavaScript, TypeScript, HTML, CSS" />
-Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vue,threejs" alt="React, Next.js, Tailwind CSS, Node.js, Vue.js, Three.js" />
-Databases & Development Tools
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,figma,vscode,vercel" alt="MongoDB, Git, GitHub, Figma, VS Code, Vercel" /></div>Learning and exploring these technologies; the list isn't a claim of expert proficiency in all of them.
-
-📊 GitHub Stats
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=afrid25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=afrid25&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>📈 Contribution Activity
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake.svg" width="100%" />
+    <img alt="GitHub Contribution Animation" src="https://raw.githubusercontent.com/Afrid25/Afrid25/output/github-snake-dark.svg" width="100%" />
   </picture>
-</div>🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afrid25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" width="100%" />
-</div>🤝 Connect With Me
-<div align="center">
-  <a href="https://www.x.com/afridopu"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/a.f.opu1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/a.f.opu1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@lifecodewithafrid"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.tiktok.com/@afrid6996"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://codeforces.com/profile/afrid2005"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://discord.com/invite/afrid2500_36223"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</div><br />
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer wave" width="100%" />
-</div>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Afrid25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.x.com/afridopu" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/a.f.opu1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/a.f.opu1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@lifecodewithafrid" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@afrid6996" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://codeforces.com/profile/afrid2005" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://discord.com/invite/afrid2500_36223" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="footer" />
+</p>
